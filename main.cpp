@@ -6,4 +6,3 @@
 
 using namespace std;
 
-// Your main function here
