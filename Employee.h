@@ -12,10 +12,8 @@ private:
 	string hireDate;
 
 public:
-	// default constructor
+	//constructors
 	Employee();
-
-	// param constructor
 	Employee(string n, int num, string date);
 
 	// mutators

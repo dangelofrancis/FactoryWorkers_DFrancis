@@ -1,5 +1,5 @@
-#ifndef TEAMLEADER.H
-#define TEAMLEADER.H
+#ifndef TEAMLEADER_H
+#define TEAMLEADER_H
 
 #include "ProductionWorker.h"
 

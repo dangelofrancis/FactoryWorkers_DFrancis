@@ -2,13 +2,11 @@
 #include <iostream>
 using namespace std;
 
-// default constructor
+//constructors
 ProductionWorker::ProductionWorker() : Employee() {
 	shift = 1;
 	hourlyPayRate = 0.0;
 }
-
-// param constructor
 ProductionWorker::ProductionWorker(string n, int num, string date, int s, double pay)
 	: Employee(n, num, date) {
 	shift = s;

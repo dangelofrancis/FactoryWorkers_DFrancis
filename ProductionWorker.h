@@ -9,10 +9,8 @@ private:
 	double hourlyPayRate;
 
 public:
-	// default constructor
+	//constructors
 	ProductionWorker();
-
-	// param constructor
 	ProductionWorker(string n, int num, string date, int s, double pay);
 
 	// mutators

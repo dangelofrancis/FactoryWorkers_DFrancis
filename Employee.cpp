@@ -1,13 +1,11 @@
 #include "Employee.h"
 
-// default constructor
+//constructors
 Employee::Employee() {
 	name = "";
 	employeeNumber = 0;
 	hireDate = "";
 }
-
-// param constructor
 Employee::Employee(string n, int num, string date) {
 	name = n;
 	employeeNumber = num;

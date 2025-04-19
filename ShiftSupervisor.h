@@ -9,10 +9,8 @@ private:
 	double annualBonus;
 
 public:
-	// default constructor
+	//constructors
 	ShiftSupervisor();
-
-	// param constructor
 	ShiftSupervisor(string n, int num, string date, double salary, double bonus);
 
 	// mutators
