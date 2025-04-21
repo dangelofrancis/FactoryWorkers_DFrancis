@@ -28,6 +28,7 @@ int main() {
 // team leaders
 	TeamLeader leader1("David Arnolds", 101, "4/02/2001", 1, 20.00, 50.00, 40, 38);
 
+// list of employees
 	cout << "FACTORY WORKER EMPLOYEES LIST" << endl;
 	cout << "--------------------------\n\n";
 	cout << "PRODUCTION WORKERS\n\n";
